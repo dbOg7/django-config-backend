@@ -1,0 +1,6 @@
+.env
+venv
+settings_specific.py
+db.sqlite3
+media
+static
